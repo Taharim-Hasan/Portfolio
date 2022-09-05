@@ -1,0 +1,179 @@
+body
+{
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+section
+{
+    height: 500px;
+}
+
+h1
+{
+    font-size: 50px;
+}
+
+.name-color
+{
+    color: #FA0030;
+}
+
+.half-width
+{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+
+.half-width img
+{
+    width: 80%;
+}
+
+#profile
+{
+    margin-left: 8%;
+    padding-left: 5% 5% 5% 5%;
+}
+
+.top
+{
+    height: 500px;
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+}
+
+#link-box
+{
+    text-decoration: none;
+    background-image: linear-gradient(45deg,#FE0030,#f8264c);
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-weight: bold;
+}
+
+.header-font
+{
+    font-size: 35px;
+    color: #00cf5d;
+}
+
+.full-width
+{
+    text-align: center;
+    height: 150px;
+}
+
+.skill-area
+{
+    height: 190px;
+}
+
+.duble-width
+{
+    width: 16%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 1%;
+    padding-right: 1%;
+}
+
+.duble-width img
+{
+    width: 100%;
+}
+
+.box-muckup
+{
+    box-shadow: 1px 1px 20px grey;
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 95%;
+}
+
+.skill-botom
+{
+    height: 370px ;
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+}
+
+.latest-work-header
+{
+    font-size: 30px;
+    color: #FE0030;
+    
+}
+
+.work-area
+{
+    height: 100px;
+}
+
+.work-header-font
+{
+    font-size: 30px;
+    color: #FE0030;
+    font-weight: bold;
+}
+
+.work-container
+{
+    width: 30%;
+    height: 40%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 0;
+    padding-bottom: 0;
+    box-shadow: 5px 5px 10px grey;
+    border-radius: 10px;
+    border: 2px solid black;
+    height: 95%;
+}
+
+.work-container img
+{
+    width: 100%;
+}
+
+.work-list
+{
+    height: 360px;
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+}
+
+.hoby
+{
+    height: 330px ;
+    background-image: url(images/header.png);
+    background-repeat: no-repeat;
+}
+
+.About-text
+{
+    font-size: 20px;
+    color: tomato;
+}
+
+.header-text-me
+{
+    color: #001236;
+}
+
+.unorder-list
+{
+    color: #292727;
+}
+
+footer
+{    
+    text-align: center;
+}
+
+
+
